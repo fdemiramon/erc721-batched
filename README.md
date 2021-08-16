@@ -25,4 +25,4 @@ $ truffle exec scripts/run-batch.js --network ganache
 $ truffle exec scripts/run-unit.js --network ganache
 ```
 
-=> Gas usage: 66116
+=> Gas usage: 66116 for 1
